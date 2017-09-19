@@ -1,5 +1,5 @@
 /*
-	This code is intended to be run in the Scala shell. 
+	This code is intended to be run in the Scala shell.
 	Launch the Scala Spark shell by running ./bin/spark-shell from the Spark directory.
 	You can enter each line in the shell and see the result immediately.
 	The expected output in the Spark console is presented as commented lines following the
@@ -21,7 +21,7 @@ val rddFromTextFile = sc.textFile("LICENSE")
 // 14/01/29 22:24:15 INFO MemoryStore: Block broadcast_0 stored as values to memory (estimated size 32.2 KB, free 296.9 MB)
 // rddFromTextFile: org.apache.spark.rdd.RDD[String] = MappedRDD[2] at textFile at <console>:12
 
-/* Transform an RDD[String] => RDD[Int] */
+/* Transform an RDD[String] => RDD[Int]     显示每行的文本长度*/
 val intsFromStringsRDD = rddFromTextFile.map(line => line.size)
 // intsFromStringsRDD: org.apache.spark.rdd.RDD[Int] = MappedRDD[5] at map at <console>:14
 
