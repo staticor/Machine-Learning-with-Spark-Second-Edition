@@ -28,7 +28,7 @@ object UserRatingsChart {
 
     val rating_df = spark.read.format("com.databricks.spark.csv")
       .option("delimiter", "\t").schema(customSchema)
-      .load("../../data/ml-100k/u.data")
+    .load("/Users/steve/ml-100k/u.data")
 
     val rating_nos_by_user = rating_df.groupBy("user_id").count().sort("count")
     val ds = new org.jfree.data.category.DefaultCategoryDataset
