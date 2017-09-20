@@ -13,5 +13,12 @@ object BreezePlotLine {
     p.xlabel = "x axis"
     p.ylabel = "y axis"
     f.saveas("lines-graph.png")
+
+    val f2 = Figure()
+    val p2 = f2.subplot(2, 1, 1)
+    val g2 = breeze.stats.distributions.Gaussian(0, 1)
+    p2 += hist(g2.sample(100000), 100)
+    p2.title = "A normal distribution Histogram"
+    f2.saveas("Gaussian distribution.png")
   }
 }

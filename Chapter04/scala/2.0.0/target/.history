@@ -1,0 +1,4 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/xt/48ph898s7zgct2jzzyv87yj80000gn/T/sbt-structure.xml
+all {file:/Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/}root-2-0-0/products {file:/Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/}root-2-0-0/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/xt/48ph898s7zgct2jzzyv87yj80000gn/T/sbt-structure.xml
+all {file:/Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/}root-2-0-0/products {file:/Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/}root-2-0-0/test:products

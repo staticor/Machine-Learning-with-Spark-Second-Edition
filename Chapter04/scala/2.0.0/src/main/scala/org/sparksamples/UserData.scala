@@ -1,4 +1,4 @@
-package org.sparksamples.df
+//
 //import org.apache.spark.sql.SQLContext
 import org.apache.spark.SparkConf
 import org.apache.spark.sql.SparkSession
@@ -22,7 +22,7 @@ package object UserData {
 
     val user_df = spark.read.format("com.databricks.spark.csv")
       .option("delimiter", "|").schema(customSchema)
-      .load("/home/ubuntu/work/ml-resources/spark-ml/data/ml-100k/u.user")
+      .load("/Users/steveyoung/ml-100k/u.user")
     val first = user_df.first()
     println("First Record : " + first)
 

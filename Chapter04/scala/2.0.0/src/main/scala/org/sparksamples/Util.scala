@@ -9,28 +9,27 @@ import org.apache.spark.sql.{DataFrame, SparkSession}
   * Created by Rajdeep Dua on 2/2/16.
   */
 object Util {
-  val PATH = "../.."
-  //TODO Replace with your specific spark home
-  val SPARK_HOME ="/home/ubuntu/work/spark-2.0.0-bin-hadoop2.7/"
-  val spConfig = (new SparkConf).setMaster("local").setAppName("SparkApp")
-  //val sc = new SparkContext(spConfig)
-  val spark = SparkSession
+
+  val PATH = "/Users/steveyoung/ml-100k/"
+  val SPARK_HOME ="/Users/steveyoung/spark-2.2.0-bin-hadoop2.7/"
+  val spConfig: SparkConf = (new SparkConf).setMaster("local").setAppName("SparkApp")
+  val spark: SparkSession = SparkSession
     .builder().master("local")
     .appName("Spark 2.0.0")
-    .config("spark.some.config.option", "some-value")
+    //.config("spark.some.config.option", "some-value")
     .getOrCreate()
 
   val sc = spark.sparkContext
+  sc.setLogLevel("WARN")
+  val PATH_MOVIES = PATH + "u.item"
+  val PATH_USERS = PATH + "u.user"
 
-  val PATH_MOVIES = PATH + "/data/ml-100k/u.item"
-  val PATH_USERS = PATH + "/data/ml-100k/u.user"
 
-  //val sqlContext = new SQLContext(org.sparksamples.Util.sc)
 
   def getMovieData() : RDD[String] = {
-    //val movie_data = sc.textFile(PATH + "/data/ml-100k/u.item")
-    //return movie_data
-    return null
+    val movie_data = sc.textFile(PATH + "u.item")
+    return movie_data
+
   }
 
   def getMovieDataDF() : DataFrame = {
@@ -41,32 +40,32 @@ object Util {
       StructField("id", StringType, true),
       StructField("name", StringType, true),
       StructField("date", StringType, true),
-      StructField("url", StringType, true)));
+      StructField("url", StringType, true)))
     val movieDf = spark.read.format("com.databricks.spark.csv")
       .option("delimiter", "|").schema(customSchema)
       .load(PATH_MOVIES)
-    return movieDf
+    movieDf
   }
 
 
 
   def numMovies() : Long = {
-    return getMovieData().count()
+    getMovieData().count()
   }
 
   def movieFields() : RDD[Array[String]] = {
-    return this.getMovieData().map(lines =>  lines.split("\\|"))
+    this.getMovieData().map(lines =>  lines.split("\\|"))
   }
 
   def mean( x:Array[Int]) : Int = {
-    return x.sum/x.length
+    x.sum/x.length
   }
   def getMovieAges(movie_data : RDD[String]) : scala.collection.Map[Int, Long] = {
     val movie_fields = movie_data.map(lines =>  lines.split("\\|"))
     val years = movie_fields.map( field => field(2)).map( x => convertYear(x))
-    val years_filtered = years.filter(x => (x != 1900) )
-    val movie_ages = years_filtered.map(yr =>  (1998 - yr) ).countByValue()
-    return movie_ages
+    val years_filtered = years.filter(x => x != 1900)
+    val movie_ages = years_filtered.map(yr =>  1998 - yr ).countByValue()
+    movie_ages
   }
 
   def getMovieAgesDataFrame(movieData: DataFrame) : scala.collection.Map[Int, Long] = {
@@ -91,27 +90,27 @@ object Util {
 
     }*/
 
-    return null
+    null
   }
 
 
 
   def convertYear( x:String) : Int = {
     try
-      return x.takeRight(4).toInt
+      x.takeRight(4).toInt
     catch {
       case e: Exception => println("exception caught: " + e + " Returning 1900");
-        return 1900
+        1900
     }
   }
 
-  def getUserData() : RDD[String] = {
-    var user_data = Util.spark.sparkContext.textFile(PATH + "/data/ml-100k/u.user")
-    return user_data
+  def getUserData : RDD[String] = {
+    var user_data = Util.spark.sparkContext.textFile(PATH + "u.user")
+    user_data
   }
 
   def getUserFields() : RDD[Array[String]] = {
-    val user_data = this.getUserData()
+    val user_data = this.getUserData
     val user_fields = user_data.map(l => l.split(","))
     return user_fields
   }
@@ -132,16 +131,12 @@ object Util {
     val user_df = spark.read.format("com.databricks.spark.csv")
       .option("delimiter", "|").schema(customSchema)
       .load(PATH_USERS)
-    return user_df
+    user_df
   }
 
 
-  def convert(x: String) : Integer = {
-    return (1998 - x.toInt)
-  }
+  def convert(x: String) : Integer = 1998 - x.toInt
+  def convert(x: Integer) : Integer = 1998 - x
 
-  def convert(x: Integer) : Integer = {
-    return (1998 - x)
-  }
 }
 
