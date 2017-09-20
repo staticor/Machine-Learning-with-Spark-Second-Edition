@@ -9,7 +9,7 @@ import org.apache.spark.sql.{DataFrame, SparkSession}
   * Created by Rajdeep Dua on 2/2/16.
   */
 object Util {
-  val PATH = "../.."
+  val PATH = "/Users/steve/ml-100k/"
 
   val SPARK_HOME ="/Users/steve/spark-2.0.0-bin-hadoop2.7/"
   val spConfig = (new SparkConf).setMaster("local").setAppName("SparkApp")
@@ -22,8 +22,8 @@ object Util {
 
   val sc = spark.sparkContext
 
-  val PATH_MOVIES = PATH + "/data/ml-100k/u.item"
-  val PATH_USERS = PATH + "/data/ml-100k/u.user"
+  val PATH_MOVIES = PATH + "u.item"
+  val PATH_USERS = PATH + "u.user"
 
   //val sqlContext = new SQLContext(org.sparksamples.Util.sc)
 
@@ -106,7 +106,7 @@ object Util {
   }
 
   def getUserData() : RDD[String] = {
-    var user_data = Util.spark.sparkContext.textFile(PATH + "/data/ml-100k/u.user")
+    var user_data = Util.spark.sparkContext.textFile(PATH + "u.user")
     return user_data
   }
 
