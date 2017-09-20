@@ -1,6 +1,7 @@
 [0m[[0mdebug[0m] [0mOther repositories:[0m
 [0m[[0mdebug[0m] [0mDefault repositories:[0m
 [0m[[0mdebug[0m] [0mUsing inline dependencies specified in Scala.[0m
+<<<<<<< HEAD
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: chapter04#chapter04$sbt_2.10;1.0[0m
 [0m[[0mdebug[0m] [0m	confs: [default][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -2500,3 +2501,5 @@
 [0m[[0mdebug[0m] [0m:: resolution report :: resolve 506ms :: artifacts dl 31ms[0m
 [0m[[0mdebug[0m] [0m	report for chapter04#chapter04$sources_2.10;1.0 default produced in /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/target/scala-2.11/resolution-cache/reports/chapter04-chapter04$sources_2.10-default.xml[0m
 [0m[[0mdebug[0m] [0m	resolve done (506ms resolve - 31ms download)[0m
+=======
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86

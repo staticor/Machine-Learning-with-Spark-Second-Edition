@@ -4,7 +4,11 @@ output mode:
 0 -> single
 output directories:
 1 items
+<<<<<<< HEAD
 output dir -> /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes
+=======
+output dir -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
 compile options:
 0 items
 javac options:
@@ -19,6 +23,7 @@ name hashing:
 1 items
 0 -> true
 products:
+<<<<<<< HEAD
 42 items
 /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/Foobar.scala -> /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/Foobar$$anonfun$1.class
 /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/Foobar.scala -> /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/Foobar$.class
@@ -109,6 +114,67 @@ binary dependencies:
 /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar
 /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> /Users/steveyoung/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
 /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> /Users/steveyoung/.ivy2/cache/org.scalanlp/breeze_2.11/jars/breeze_2.11-0.12.jar
+=======
+26 items
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/ComplexNumber$.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/ComplexNumber.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/GF2$class.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/GF2.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/One$.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/One.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/Zero$.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/Zero.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/GaloisField$.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/GaloisField.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/matrix/BreezeMatrix$.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/matrix/BreezeMatrix.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/matrix/BreezeMatrixOperations$.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/matrix/BreezeMatrixOperations.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/operations/common$.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/operations/common.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/plot/BreezePlotGaussian$.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/plot/BreezePlotGaussian.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/plot/BreezePlotLine$.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/plot/BreezePlotLine.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/sgd/BreezeSGDVector$$anon$1.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/sgd/BreezeSGDVector$.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/sgd/BreezeSGDVector.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/vector/Vector$$anonfun$1.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/vector/Vector$.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/vector/Vector.class
+binary dependencies:
+30 items
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> /Users/steve/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> /Users/steve/.ivy2/cache/org.scalanlp/breeze_2.11/jars/breeze_2.11-0.12.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> /Users/steve/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> /Users/steve/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> /Users/steve/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> /Users/steve/.ivy2/cache/org.scalanlp/breeze_2.11/jars/breeze_2.11-0.12.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> /Users/steve/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> /Users/steve/.ivy2/cache/org.scalanlp/breeze_2.11/jars/breeze_2.11-0.12.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> /Users/steve/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> /Users/steve/.ivy2/cache/org.scalanlp/breeze_2.11/jars/breeze_2.11-0.12.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> /Users/steve/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> /Users/steve/.ivy2/cache/org.scalanlp/breeze-viz_2.11/jars/breeze-viz_2.11-0.12.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> /Users/steve/.ivy2/cache/org.scalanlp/breeze_2.11/jars/breeze_2.11-0.12.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> /Users/steve/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> /Users/steve/.ivy2/cache/org.scalanlp/breeze-viz_2.11/jars/breeze-viz_2.11-0.12.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> /Users/steve/.ivy2/cache/org.scalanlp/breeze_2.11/jars/breeze_2.11-0.12.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> /Users/steve/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> /Users/steve/.ivy2/cache/org.scalanlp/breeze_2.11/jars/breeze_2.11-0.12.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> /Users/steve/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> /Users/steve/.ivy2/cache/org.scalanlp/breeze_2.11/jars/breeze_2.11-0.12.jar
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -119,7 +185,11 @@ public inherited external dependencies:
 0 items
 member reference internal dependencies:
 1 items
+<<<<<<< HEAD
 /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala
+=======
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
 member reference external dependencies:
 0 items
 inheritance internal dependencies:
@@ -127,6 +197,7 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
+<<<<<<< HEAD
 42 items
 /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/Foobar.scala -> Foobar
 /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/Foobar.scala -> Foobar$
@@ -1340,3 +1411,765 @@ compilations:
 20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXp950J11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZy9Vc2Vycy9zdGV2ZXlvdW5nL01hY2hpbmUtTGVhcm5pbmctd2l0aC1TcGFyay1TZWNvbmQtRWRpdGlvbi9DaGFwdGVyMDIvYnJlZXplL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
 21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXp+CFgx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZy9Vc2Vycy9zdGV2ZXlvdW5nL01hY2hpbmUtTGVhcm5pbmctd2l0aC1TcGFyay1TZWNvbmQtRWRpdGlvbi9DaGFwdGVyMDIvYnJlZXplL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
 22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXp+Hscd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZy9Vc2Vycy9zdGV2ZXlvdW5nL01hY2hpbmUtTGVhcm5pbmctd2l0aC1TcGFyay1TZWNvbmQtRWRpdGlvbi9DaGFwdGVyMDIvYnJlZXplL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+=======
+26 items
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> linalg.fields.ComplexNumber
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> linalg.fields.ComplexNumber$
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> linalg.fields.GF2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> linalg.fields.GF2$class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> linalg.fields.One
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> linalg.fields.One$
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> linalg.fields.Zero
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> linalg.fields.Zero$
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> linalg.fields.GaloisField
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> linalg.fields.GaloisField$
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> linalg.matrix.BreezeMatrix
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> linalg.matrix.BreezeMatrix$
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> linalg.matrix.BreezeMatrixOperations
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> linalg.matrix.BreezeMatrixOperations$
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> linalg.operations.common
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> linalg.operations.common$
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> linalg.plot.BreezePlotGaussian
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> linalg.plot.BreezePlotGaussian$
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> linalg.plot.BreezePlotLine
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> linalg.plot.BreezePlotLine$
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> linalg.sgd.BreezeSGDVector
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> linalg.sgd.BreezeSGDVector$
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> linalg.sgd.BreezeSGDVector$$anon$1
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> linalg.vector.Vector
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> linalg.vector.Vector$
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> linalg.vector.Vector$$anonfun$1
+used names:
+630 items
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> *
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> +
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> -
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> /
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> <init>
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> <repeated>
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> A
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> Any
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> AnyRef
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> Array
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> B
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> Complex
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> ComplexIsFractional
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> ComplexNumber
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> Int
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> List
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> Nothing
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> Numeric
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> Object
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> Ordering
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> Predef
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> RichField
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> String
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> Unit
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> apply
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> breeze
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> complexNumbers
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> fields
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> i
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> immutable
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> linalg
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> math
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> package
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> println
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> product
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> richInt
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> scala
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> sorted
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> sum
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> unary_-
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> x
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> x1
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> x2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> <init>
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> ==
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> Any
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> AnyRef
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> Boolean
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> GF2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> IllegalArgumentException
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> Object
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> One
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> String
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> Zero
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> fields
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> linalg
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> package
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> scala
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> that
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> +
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> <init>
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> Any
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> AnyRef
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> Array
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> GF2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> GaloisField
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> GaloisField2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> Object
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> One
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> Predef
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> String
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> Unit
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> Zero
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> fields
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> linalg
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> println
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> scala
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> $conforms
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> +
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> ::
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> :=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> <:<
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> <init>
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> <repeated>
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> A
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> Any
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> AnyRef
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> Array
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> B
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> BreezeMatrix
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> CanSlice2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> CanTranspose
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> ClassTag
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> DenseMatrix
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> DenseVector
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> InPlaceImpl2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> Int
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> IntZero
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> K
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> LiteralRow
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> Nothing
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> Object
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> Op
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> OpSet
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> Predef
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> R
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> Result
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> Slice1
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> Slice2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> String
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> T
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> T1
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> T2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> TT
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> Tensor
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> That
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> Transpose
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> Tuple2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> U
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> UFunc
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> Unit
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> V
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> Zero
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> a
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> apply
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> breeze
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> canSliceCol
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> canSliceRow
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> cols
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> dv_dv_UpdateOp_Int_OpSet
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> liftInPlaceOps
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> linalg
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> m
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> materializeClassTag
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> matrix
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> package
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> println
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> rows
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> scala
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> storage
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> support
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> t
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> transposeTensor
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> tuple2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> zeros
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> *
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> +
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> :+=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> :<
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> <init>
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> <repeated>
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> Any
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> AnyRef
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> Array
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> B
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> Boolean
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> BreezeMatrixOperations
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> CanMapValues
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> CanTraverseKeyValuePairs
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> CanTraverseValues
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> ClassTag
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> DenseMatrix
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> Double
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> DoubleZero
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> I
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> Impl
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> Impl2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> InPlaceImpl2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> Int
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> IntZero
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> LiteralRow
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> Nothing
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> Object
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> OpAdd
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> OpLT
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> OpMulMatrix
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> Ordering
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> Predef
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> R
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> ScalarOf
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> String
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> T
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> T1
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> T2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> TT
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> That
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> Tuple2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> U
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> Unit
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> V
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> V2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> VR
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> Zero
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> a
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> apply
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> argmax
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> b
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> breeze
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> c
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> canMapValues
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> canTraverseKeyValuePairs
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> canTraverseValues
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> ceil
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> ceilDoubleImpl
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> d
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> dm_dm_Op_Int_OpLT
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> dm_s_UpdateOp_Int_OpAdd
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> e
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> f
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> floor
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> floorDoubleImpl
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> fromLowOrderCanMapValues
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> g
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> gCeil
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> gFloor
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> linalg
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> materializeClassTag
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> math
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> matrix
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> max
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> numerics
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> op_DM_DM_Int
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> op_DM_DM_Int_OpAdd
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> package
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> println
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> reduce_Int
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> scala
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> scalarOf
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> storage
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> sum
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> sumA
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> support
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> tuple2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> +
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> :*
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> :<
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> <init>
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> <repeated>
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> Any
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> AnyRef
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> Array
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> B
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> BB
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> BitVector
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> Boolean
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> CanMapValues
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> CanTraverseKeyValuePairs
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> CanTraverseValues
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> ClassTag
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> DenseMatrix
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> DenseVector
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> Double
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> I
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> Impl
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> Impl2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> Int
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> IntZero
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> LiteralRow
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> Nothing
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> Object
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> OpAdd
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> OpLT
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> OpMulInner
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> OpMulScalar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> Predef
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> R
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> ScalarOf
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> String
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> T
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> T1
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> T2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> T3
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> TT
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> That
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> Tuple2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> Tuple3
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> U
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> Unit
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> V
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> V2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> VR
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> Zero
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> add
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> apply
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> argmax
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> argmaxElement
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> breeze
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> canAddD
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> canDotD
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> canIterateValues
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> canMapValues
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> canTraverseKeyValuePairs
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> canTraverseValues
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> ceil
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> ceilDoubleImpl
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> ceilIntImpl
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> ceiling
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> common
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> compare
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> dm_dm_Op_Int_OpLT
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> dot
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> dv_dv_Op_Double_OpLT
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> dv_dv_Op_Double_OpMulScalar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> floor
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> floorDoubleImpl
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> floorIntImpl
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> flooring
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> fromLowOrderCanMapValues
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> linalg
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> m1
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> m2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> materializeClassTag
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> max
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> maxElement
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> mul
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> numerics
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> op_DM_DM_Int_OpAdd
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> op_DM_DM_Int_OpMulScalar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> operations
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> package
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> println
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> reduce_Double
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> reduce_Int
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> scala
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> scalarOf
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> storage
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> sum
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> sumof
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> support
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> tuple3
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> v1
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> v2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> $conforms
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> +=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> <:<
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> <init>
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> A
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> Any
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> AnyRef
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> Array
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> BreezePlotGaussian
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> D
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> DomainFunction
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> Double
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> Figure
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> Function1
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> Gaussian
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> HistogramBins
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> IndexedSeq
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> Int
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> Nothing
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> Object
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> Plot
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> Predef
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> RandBasis
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> Seq
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> Series
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> String
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> T
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> Unit
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> V
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> apply
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> breeze
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> distributions
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> f
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> fromNumber
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> g
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> hist
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> linalg
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> p
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> package
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> plot
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> sample
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> saveas
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> scala
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> seqIsDomainFunction
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> stats
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> subplot
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> title_=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> x$1
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> x$2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> x$3
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> $conforms
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> +=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> <:<
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> <init>
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> <repeated>
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> A
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> Any
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> AnyRef
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> Array
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> Boolean
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> BreezePlotLine
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> Char
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> ClassTag
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> DenseVector
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> DomainFunction
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> Double
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> Figure
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> Function1
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> Int
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> K
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> Nothing
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> Object
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> Plot
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> Predef
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> QuasiTensor
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> Series
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> String
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> T
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> Unit
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> V
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> X
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> Y
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> apply
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> breeze
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> f
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> linalg
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> materializeClassTag
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> p
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> package
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> plot
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> quasitensorIsDomainFunction
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> saveas
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> scala
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> subplot
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> x
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> xlabel_=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> y
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> ylabel_=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> $anon
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> *
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> +
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> -
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> :-
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> <
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> <init>
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> <refinement>
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> Any
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> AnyRef
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> Array
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> B
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> BB
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> BatchDiffFunction
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> Boolean
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> BreezeSGDVector
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> ClassTag
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> DenseVector
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> Double
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> Impl2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> Inclusive
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> IndexedSeq
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> Int
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> MutableFiniteCoordinateField
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> NormedModule
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> Nothing
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> Object
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> OpMulInner
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> OpMulMatrix
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> OpSub
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> Predef
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> Range
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> RichInt
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> Semiring
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> StochasticDiffFunction
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> StochasticGradientDescent
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> String
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> T
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> T1
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> T2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> TT
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> That
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> Tuple2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> Unit
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> V
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> V1
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> V2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> VR
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> apply
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> breeze
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> canDotD
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> canNorm_Double
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> canSubD
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> dot
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> dv_s_Op_Double_OpMulMatrix
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> dv_s_Op_Double_OpSub
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> f
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> fromCanNormInt
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> fullRange
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> init
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> intWrapper
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> linalg
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> materializeClassTag
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> math
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> minimize
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> norm
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> ones
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> optimize
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> package
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> println
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> r
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> result
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> scala
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> semiringD
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> sgd
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> size
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> space_Double
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> to
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> x
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> $conforms
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> *
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> +
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> :<
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> :<=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> :==
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> :>
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> :>=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> <:<
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> <init>
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> <repeated>
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> A
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> Any
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> AnyRef
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> Array
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> B
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> BB
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> BitVector
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> CanMapKeyValuePairs
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> CanTranspose
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> CanTraverseKeyValuePairs
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> CanTraverseValues
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> ClassTag
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> DenseMatrix
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> DenseVector
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> Double
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> DoubleZero
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> Float
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> Function2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> I
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> Impl
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> Impl2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> Int
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> K
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> Nothing
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> O
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> Object
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> OpEq
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> OpGT
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> OpGTE
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> OpLT
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> OpLTE
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> OpMulInner
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> OpMulMatrix
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> Predef
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> R
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> Rand
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> SparseVector
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> String
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> T
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> T1
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> T2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> TT
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> Tensor
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> That
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> Transpose
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> Tuple2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> U
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> Unit
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> V
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> V1
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> V2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> VR
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> Vector
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> Zero
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> a
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> a1
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> apply
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> ar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> argmax
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> argmin
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> b
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> b1
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> breeze
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> canDotD
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> canIterateValues
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> canMapPairs
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> canNorm_Double
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> canTraverseKeyValuePairs
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> data
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> dot
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> dv
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> dv_dv_Op_Int_OpEq
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> dv_dv_Op_Int_OpGT
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> dv_dv_Op_Int_OpGTE
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> dv_dv_Op_Int_OpLT
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> dv_dv_Op_Int_OpLTE
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> fromCanNormInt
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> implOpMulInner_SVT_SVT_eq_T_Double
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> linalg
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> ma
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> mapActivePairs
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> materializeClassTag
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> max
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> mean
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> min
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> mn
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> nm
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> norm
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> package
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> println
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> rand
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> reduce_Double
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> reduce_Int
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> scala
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> stats
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> storage
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> sv
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> sva
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> svb
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> svm
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> svm1
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> t
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> toArray
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> transTimesNormalFromDot
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> transposeTensor
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> update
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> v
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> v1
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> vector
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> x
+product stamps:
+26 items
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/ComplexNumber$.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/ComplexNumber.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/GF2$class.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/GF2.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/GaloisField$.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/GaloisField.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/One$.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/One.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/Zero$.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/Zero.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/matrix/BreezeMatrix$.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/matrix/BreezeMatrix.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/matrix/BreezeMatrixOperations$.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/matrix/BreezeMatrixOperations.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/operations/common$.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/operations/common.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/plot/BreezePlotGaussian$.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/plot/BreezePlotGaussian.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/plot/BreezePlotLine$.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/plot/BreezePlotLine.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/sgd/BreezeSGDVector$$anon$1.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/sgd/BreezeSGDVector$.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/sgd/BreezeSGDVector.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/vector/Vector$$anonfun$1.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/vector/Vector$.class -> lastModified(1505546841000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/vector/Vector.class -> lastModified(1505546841000)
+source stamps:
+10 items
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> hash(9d4bbea347830e3093cdcc3e50722548dcadc90f)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> hash(62eaef7b14089f87513b2d42797fa5e37deac72d)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> hash(6da133268fa259c3be8ee26681933fd74776fe85)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> hash(1add6e1847d7fd8d971c365d134ee7a296333d51)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> hash(310e153b2d233974fc0e5f81288cdff5ef30cc56)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> hash(3f9c063d206a56ea58a0faa26badd26213d02d49)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> hash(2a1646b15211516600a7062a5736613d47c6dcf0)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> hash(91328b14110e50c1e38fc8244e00b922cd555aa1)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> hash(11e250fd3e59498ad762efe63e3c3ebc60c8fc06)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> hash(d24d44915e2daf654fecbeca4393463c0861bd62)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1466589303000)
+/Users/steve/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+/Users/steve/.ivy2/cache/org.scalanlp/breeze-viz_2.11/jars/breeze-viz_2.11-0.12.jar -> lastModified(1452973949000)
+/Users/steve/.ivy2/cache/org.scalanlp/breeze_2.11/jars/breeze_2.11-0.12.jar -> lastModified(1452974058000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/steve/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Tuple2$
+/Users/steve/.ivy2/cache/org.scalanlp/breeze-viz_2.11/jars/breeze-viz_2.11-0.12.jar -> breeze.plot.Figure$
+/Users/steve/.ivy2/cache/org.scalanlp/breeze_2.11/jars/breeze_2.11-0.12.jar -> breeze.linalg.operators.OpMulInner$
+internal apis:
+10 items
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwLBvYOAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwHSSVtXQABm5vdGlmeXNxAH4ADPei6w10AAR3YWl0c3EAfgAMvuY5MnQADSRhc0luc3RhbmNlT2ZzcQB+AAwWQKcrdAAGZXF1YWxzc3EAfgAMHBjaeXQADGFzSW5zdGFuY2VPZnNxAH4ADF6ESOd0AAxzeW5jaHJvbml6ZWRzcQB+AAz/oGG/dAANJGlzSW5zdGFuY2VPZnNxAH4ADKvMzrl0AARtYWluc3EAfgAMJWk2EXQACW5vdGlmeUFsbHNxAH4ADOR/TXp0AAxpc0luc3RhbmNlT2ZzcQB+AAzT2/BadAACPT1zcQB+AAzUnVBcdAAOY29tcGxleE51bWJlcnNzcQB+AAwQ/nWudAAFY2xvbmVzcQB+AAzIe7KzdAANQ29tcGxleE51bWJlcnNxAH4ADJBbeUt0AAh0b1N0cmluZ3NxAH4ADN1F2TZ0AAIhPXNxAH4ADKDud+Z0AAhnZXRDbGFzc3NxAH4ADKK964R0AAJuZXNxAH4ADBTX+Wx0AAJlcXNxAH4ADKBaKOF0AAIjI3NxAH4ADFWQFKF0AAhmaW5hbGl6ZXNxAH4ADGCYPu90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABtsaW5hbGcuZmllbGRzLkNvbXBsZXhOdW1iZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFtzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBgc3EAfgBbdXEAfgA+AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBEcQB+AE11cQB+AE4AAAAAc3EAfgBQAHEAfgAddXEAfgBTAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF90AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB7dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AaHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVnQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ab1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AX3NxAH4AbnQABUFycmF5cQB+AHR1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbnQABlN0cmluZ3NxAH4AcnNxAH4AdXVxAH4AeAAAAANzcQB+AHp0AARqYXZhc3EAfgB6dAAEbGFuZ3EAfgB/c3EAfgBbdXEAfgA+AAAAAHNxAH4AW3VxAH4AkwAAAAJzcQB+AG50AAZPYmplY3RxAH4Al3NxAH4AbnQAA0FueXEAfgB0dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGbGluYWxnc3EAfgCodAANbGluYWxnLmZpZWxkc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXomVYHR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABiL1VzZXJzL3N0ZXZlL01hY2hpbmUtTGVhcm5pbmctd2l0aC1TcGFyay1TZWNvbmQtRWRpdGlvbi9DaGFwdGVyMDIvYnJlZXplL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSdS76jR4MOMJPNzD5QciVI3K3JDw==
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwvz10nQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwqZ1N0nQABm5vdGlmeXNxAH4ADMtLDQ10AANPbmVzcQB+AAxNRYFzdAAEd2FpdHNxAH4ADGHoM8R0AAEqc3EAfgAMZUfg9nQADSRhc0luc3RhbmNlT2ZzcQB+AAz49HNidAAGZXF1YWxzc3EAfgAMLYVkc3QAA0dGMnNxAH4ADBjXdP10AARaZXJvc3EAfgAM/0VujXQADGFzSW5zdGFuY2VPZnNxAH4ADDPQMeJ0AAxzeW5jaHJvbml6ZWRzcQB+AAw2ILS7dAANJGlzSW5zdGFuY2VPZnNxAH4ADDHnTzd0AAlub3RpZnlBbGxzcQB+AAxVtQl7dAAMaXNJbnN0YW5jZU9mc3EAfgAM9a3LI3QAAj09c3EAfgAMhasUXnQABWNsb25lc3EAfgAMmdqS83QABiRpbml0JHNxAH4ADLo4tpN0AAh0b1N0cmluZ3NxAH4ADMP2jXN0AAErc3EAfgAMtc3yvnQAAiE9c3EAfgAMIJkJJXQACGdldENsYXNzc3EAfgAMLKupfXQAAm5lc3EAfgAMnTlDRnQAAmVxc3EAfgAMwfYrW3QAAS9zcQB+AAxBSObRdAACIyNzcQB+AAzFrPSidAAIZmluYWxpemVzcQB+AAxsygq2dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBLeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHABdAARbGluYWxnLmZpZWxkcy5HRjJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AY3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBLTAAJaW5oZXJpdGVkcQB+AEtMAAdwYXJlbnRzcQB+AEt4cQB+AGhzcQB+AGN1cQB+AEYAAAAAc3EAfgBjdXEAfgBGAAAAAHNxAH4AY3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZ3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZ3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AgHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AgXNxAH4AdHQAA0FueXNxAH4AeHNxAH4Ae3VxAH4AfgAAAAJzcQB+AIB0AAVzY2FsYXEAfgCHc3EAfgBIcQB+AFV1cQB+AFYAAAAAc3EAfgBYAHQAEmxpbmFsZy5maWVsZHMuWmVyb3VxAH4AWwAAAAB+cQB+AF10AAZNb2R1bGV1cQB+AGEAAAAAc3EAfgBjcQB+AGlzcQB+AGNzcQB+AGtzcQB+AGN1cQB+AEYAAAAAc3EAfgBjdXEAfgBGAAAAAHNxAH4AY3VxAH4AcgAAAANzcQB+AHR0AANHRjJzcQB+AHhzcQB+AHt1cQB+AH4AAAADc3EAfgCAdAAGbGluYWxnc3EAfgCAdAAGZmllbGRzcQB+AIdzcQB+AHRxAH4Ad3NxAH4AeHNxAH4Ae3VxAH4AfgAAAANzcQB+AIBxAH4Ag3NxAH4AgHEAfgCFcQB+AIdzcQB+AHRxAH4AiXNxAH4AeHNxAH4Ae3VxAH4AfgAAAAJzcQB+AIBxAH4AjnEAfgCHc3EAfgBIcQB+AFV1cQB+AFYAAAAAc3EAfgBYAHQAEWxpbmFsZy5maWVsZHMuT25ldXEAfgBbAAAAAHEAfgCUdXEAfgBhAAAAAHNxAH4AY3EAfgBpc3EAfgBjc3EAfgBrc3EAfgBjdXEAfgBGAAAAAHNxAH4AY3VxAH4ARgAAAABzcQB+AGN1cQB+AHIAAAADc3EAfgB0dAADR0Yyc3EAfgB4c3EAfgB7dXEAfgB+AAAAA3NxAH4AgHQABmxpbmFsZ3NxAH4AgHQABmZpZWxkc3EAfgCHc3EAfgB0cQB+AHdzcQB+AHhzcQB+AHt1cQB+AH4AAAADc3EAfgCAcQB+AINzcQB+AIBxAH4AhXEAfgCHc3EAfgB0cQB+AIlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAcQB+AI5xAH4Ah3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABmxpbmFsZ3NxAH4A2XQADWxpbmFsZy5maWVsZHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV6JlWB0dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAYi9Vc2Vycy9zdGV2ZS9NYWNoaW5lLUxlYXJuaW5nLXdpdGgtU3BhcmstU2Vjb25kLUVkaXRpb24vQ2hhcHRlcjAyL2JyZWV6ZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUYurvexQIn4dROy1CeX+l433qxy0=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwIL3mfAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwqQ/i13QABm5vdGlmeXNxAH4ADG9RM4x0AAR3YWl0c3EAfgAMHDV4tXQADSRhc0luc3RhbmNlT2ZzcQB+AAzGpiDodAAGZXF1YWxzc3EAfgAMU1AYbnQADGFzSW5zdGFuY2VPZnNxAH4ADHb+oDB0AAxzeW5jaHJvbml6ZWRzcQB+AAzI1I0LdAANJGlzSW5zdGFuY2VPZnNxAH4ADJUoGsh0AARtYWluc3EAfgAMihoLqHQADEdhbG9pc0ZpZWxkMnNxAH4ADBaAmVF0AAlub3RpZnlBbGxzcQB+AAxmUekUdAAMaXNJbnN0YW5jZU9mc3EAfgAM8RtbaXQAAj09c3EAfgAM3tRDCHQABWNsb25lc3EAfgAMhSx5DHQACHRvU3RyaW5nc3EAfgAM6nijCXQAAiE9c3EAfgAMh+4OdXQACGdldENsYXNzc3EAfgAMLs6x2XQAC0dhbG9pc0ZpZWxkc3EAfgAMt1ChTnQAAm5lc3EAfgAMFKwvqXQAAmVxc3EAfgAM22t/fXQAAiMjc3EAfgAMIPZiLnQACGZpbmFsaXplc3EAfgAM1u9tpHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAGWxpbmFsZy5maWVsZHMuR2Fsb2lzRmllbGR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFtzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBgc3EAfgBbdXEAfgA+AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBEcQB+AE11cQB+AE4AAAAAc3EAfgBQAHEAfgAddXEAfgBTAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF90AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB7dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AaHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVnQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ab1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AX3NxAH4AbnQABUFycmF5cQB+AHR1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbnQABlN0cmluZ3NxAH4AcnNxAH4AdXVxAH4AeAAAAANzcQB+AHp0AARqYXZhc3EAfgB6dAAEbGFuZ3EAfgB/c3EAfgBbdXEAfgA+AAAAAHNxAH4AW3VxAH4AkwAAAAJzcQB+AG50AAZPYmplY3RxAH4Al3NxAH4AbnQAA0FueXEAfgB0dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGbGluYWxnc3EAfgCodAANbGluYWxnLmZpZWxkc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXomVYHR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABiL1VzZXJzL3N0ZXZlL01hY2hpbmUtTGVhcm5pbmctd2l0aC1TcGFyay1TZWNvbmQtRWRpdGlvbi9DaGFwdGVyMDIvYnJlZXplL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRtoTMmj6JZw76O4maBkz/XR3b+hQ==
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwmayqEQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw9HCcpHQABm5vdGlmeXNxAH4ADGMBicF0AAR3YWl0c3EAfgAMyCysD3QADSRhc0luc3RhbmNlT2ZzcQB+AAyLq51wdAAGZXF1YWxzc3EAfgAM8+Ib5HQADGFzSW5zdGFuY2VPZnNxAH4ADGGmtW90AAxCcmVlemVNYXRyaXhzcQB+AAw/bI97dAAMc3luY2hyb25pemVkc3EAfgAMP4gIInQADSRpc0luc3RhbmNlT2ZzcQB+AAyMb3nzdAAEbWFpbnNxAH4ADKacFUB0AAlub3RpZnlBbGxzcQB+AAxEIpdDdAAMaXNJbnN0YW5jZU9mc3EAfgAMYPx4YHQAAj09c3EAfgAMdMegU3QABWNsb25lc3EAfgAMuUo2oHQACHRvU3RyaW5nc3EAfgAMxVg/+XQAAiE9c3EAfgAMS6VMMnQACGdldENsYXNzc3EAfgAMPApeRHQAAm5lc3EAfgAM/oVWa3QAAmVxc3EAfgAMOdravnQAAiMjc3EAfgAMeMrmJnQACGZpbmFsaXplc3EAfgAMXCKHOXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAGmxpbmFsZy5tYXRyaXguQnJlZXplTWF0cml4dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABmxpbmFsZ3NxAH4ApnQADWxpbmFsZy5tYXRyaXhzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV6JlWB0dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAYi9Vc2Vycy9zdGV2ZS9NYWNoaW5lLUxlYXJuaW5nLXdpdGgtU3BhcmstU2Vjb25kLUVkaXRpb24vQ2hhcHRlcjAyL2JyZWV6ZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUGt1uGEfX/Y2XHDZdE07nopYzPVE=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwuXVKkAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwctoZvnQABm5vdGlmeXNxAH4ADFKWsaN0AAR3YWl0c3EAfgAMY6P9tXQADSRhc0luc3RhbmNlT2ZzcQB+AAx+zgOYdAAGZXF1YWxzc3EAfgAMN+4b2XQADGFzSW5zdGFuY2VPZnNxAH4ADPuH4pB0AAxzeW5jaHJvbml6ZWRzcQB+AAwrNy2wdAANJGlzSW5zdGFuY2VPZnNxAH4ADG+wkd90AARtYWluc3EAfgAMkBAoA3QACW5vdGlmeUFsbHNxAH4ADKLl6WF0AAxpc0luc3RhbmNlT2ZzcQB+AAyPc9LddAACPT1zcQB+AAxkLbWpdAAFY2xvbmVzcQB+AAwbK3R2dAAIdG9TdHJpbmdzcQB+AAzoUIhEdAACIT1zcQB+AAwPEorPdAAIZ2V0Q2xhc3NzcQB+AAxsEx9xdAAWQnJlZXplTWF0cml4T3BlcmF0aW9uc3NxAH4ADLLG5VJ0AAJuZXNxAH4ADBKSg5R0AAJlcXNxAH4ADJs7Om90AAIjI3NxAH4ADIbfPCp0AAhmaW5hbGl6ZXNxAH4ADI18mGt0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACRsaW5hbGcubWF0cml4LkJyZWV6ZU1hdHJpeE9wZXJhdGlvbnN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBec3EAfgBZdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAddXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF10AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AbVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXXNxAH4AbHQABUFycmF5cQB+AHJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbHQABlN0cmluZ3NxAH4AcHNxAH4Ac3VxAH4AdgAAAANzcQB+AHh0AARqYXZhc3EAfgB4dAAEbGFuZ3EAfgB9c3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVxAH4AkQAAAAJzcQB+AGx0AAZPYmplY3RxAH4AlXNxAH4AbHQAA0FueXEAfgBydXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGbGluYWxnc3EAfgCmdAANbGluYWxnLm1hdHJpeHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXomVYHR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABiL1VzZXJzL3N0ZXZlL01hY2hpbmUtTGVhcm5pbmctd2l0aC1TcGFyay1TZWNvbmQtRWRpdGlvbi9DaGFwdGVyMDIvYnJlZXplL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQxDhU7LSM5dPwOX4EojN/17zDMVg==
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwufIOWAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAic3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwS9X3NnQABm5vdGlmeXNxAH4ADMILNSp0AANkb3RzcQB+AAxmQc6zdAACbTJzcQB+AAyjsuPFdAAEd2FpdHNxAH4ADHRkf+10AA0kYXNJbnN0YW5jZU9mc3EAfgAMTgwYrHQAAnYyc3EAfgAM1WXMP3QACGZsb29yaW5nc3EAfgAMwxM60nQABmVxdWFsc3NxAH4ADOD7ICF0AAxhc0luc3RhbmNlT2ZzcQB+AAxGavWDdAAMc3luY2hyb25pemVkc3EAfgAMaQopLHQAB2NlaWxpbmdzcQB+AAyLEuVFdAANYXJnbWF4RWxlbWVudHNxAH4ADDggxsV0AA0kaXNJbnN0YW5jZU9mc3EAfgAM6tmKunQAAm0xc3EAfgAMch0TInQABG1haW5zcQB+AAzYpOXIdAAJbm90aWZ5QWxsc3EAfgAMvYk51HQAAnYxc3EAfgAMKN8z1HQADGlzSW5zdGFuY2VPZnNxAH4ADEp2XWJ0AAZjb21tb25zcQB+AAzgwy3WdAAFc3Vtb2ZzcQB+AAzYUOz9dAACPT1zcQB+AAwZlKwzdAADbXVsc3EAfgAM4NgPhHQABWNsb25lc3EAfgAMS9r3knQACHRvU3RyaW5nc3EAfgAMhi1p83QACm1heEVsZW1lbnRzcQB+AAwRP1YedAACIT1zcQB+AAzVbgwIdAAIZ2V0Q2xhc3NzcQB+AAzh89hndAACbmVzcQB+AAy9i5NIdAADYWRkc3EAfgAMIwYb7nQAAmVxc3EAfgAMkk9C03QAB2NvbXBhcmVzcQB+AAw1clE9dAACIyNzcQB+AAyFQHondAAIZmluYWxpemVzcQB+AAzZ5EyKdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBbeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAYbGluYWxnLm9wZXJhdGlvbnMuY29tbW9udXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBzc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFtMAAlpbmhlcml0ZWRxAH4AW0wAB3BhcmVudHNxAH4AW3hxAH4AeHNxAH4Ac3VxAH4AVgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AXHEAfgBldXEAfgBmAAAAAHNxAH4AaABxAH4AK3VxAH4AawAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB3dAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ad3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ak3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AIB4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AG50AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIdbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHdzcQB+AIZ0AAVBcnJheXEAfgCMdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIZ0AAZTdHJpbmdzcQB+AIpzcQB+AI11cQB+AJAAAAADc3EAfgCSdAAEamF2YXNxAH4AknQABGxhbmdxAH4Al3NxAH4Ac3VxAH4AVgAAAABzcQB+AHN1cQB+AKsAAAACc3EAfgCGdAAGT2JqZWN0cQB+AK9zcQB+AIZ0AANBbnlxAH4AjHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABmxpbmFsZ3NxAH4AwHQAEWxpbmFsZy5vcGVyYXRpb25zc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFeiZVgdHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGIvVXNlcnMvc3RldmUvTWFjaGluZS1MZWFybmluZy13aXRoLVNwYXJrLVNlY29uZC1FZGl0aW9uL0NoYXB0ZXIwMi9icmVlemUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFD+cBj0galbqWKD6omut0mIT0C1J
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwi2tKrQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwJuaa+nQABm5vdGlmeXNxAH4ADIKoaM50AAR3YWl0c3EAfgAMKGV6OnQADSRhc0luc3RhbmNlT2ZzcQB+AAygWYd2dAAGZXF1YWxzc3EAfgAMVbW8LHQADGFzSW5zdGFuY2VPZnNxAH4ADPwm1Ml0AAxzeW5jaHJvbml6ZWRzcQB+AAzvoJzgdAANJGlzSW5zdGFuY2VPZnNxAH4ADJiFzwd0AARtYWluc3EAfgAMXRXW+nQACW5vdGlmeUFsbHNxAH4ADEAZvZ90AAxpc0luc3RhbmNlT2ZzcQB+AAxYDjeQdAACPT1zcQB+AAxsBH3SdAASQnJlZXplUGxvdEdhdXNzaWFuc3EAfgAMcV9+XXQABWNsb25lc3EAfgAMti1UcnQACHRvU3RyaW5nc3EAfgAMxHu8bXQAAiE9c3EAfgAMuRPlfnQACGdldENsYXNzc3EAfgAMYged+XQAAm5lc3EAfgAMaSZWoHQAAmVxc3EAfgAMiUPyUXQAAiMjc3EAfgAM0QDLB3QACGZpbmFsaXplc3EAfgAMU/+NAnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAHmxpbmFsZy5wbG90LkJyZWV6ZVBsb3RHYXVzc2lhbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF5zcQB+AFl1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFEAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHl1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBmeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBUdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBtWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBdc3EAfgBsdAAFQXJyYXlxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBsdAAGU3RyaW5nc3EAfgBwc3EAfgBzdXEAfgB2AAAAA3NxAH4AeHQABGphdmFzcQB+AHh0AARsYW5ncQB+AH1zcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXEAfgCRAAAAAnNxAH4AbHQABk9iamVjdHEAfgCVc3EAfgBsdAADQW55cQB+AHJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZsaW5hbGdzcQB+AKZ0AAtsaW5hbGcucGxvdHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXomVYHR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABiL1VzZXJzL3N0ZXZlL01hY2hpbmUtTGVhcm5pbmctd2l0aC1TcGFyay1TZWNvbmQtRWRpdGlvbi9DaGFwdGVyMDIvYnJlZXplL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQqFkaxUhFRZgCnBipXNmE9R8bc8A==
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwCkkp1wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwCaJl8HQABm5vdGlmeXNxAH4ADAGubG90AAR3YWl0c3EAfgAM3G+hs3QADSRhc0luc3RhbmNlT2ZzcQB+AAyNh5L8dAAGZXF1YWxzc3EAfgAME4hULXQADGFzSW5zdGFuY2VPZnNxAH4ADL64vBp0AAxzeW5jaHJvbml6ZWRzcQB+AAyIEv8cdAANJGlzSW5zdGFuY2VPZnNxAH4ADMx7ZqF0AARtYWluc3EAfgAMV1sxf3QACW5vdGlmeUFsbHNxAH4ADOx29Tx0AAxpc0luc3RhbmNlT2ZzcQB+AAwiI+PidAAOQnJlZXplUGxvdExpbmVzcQB+AAwGsHYqdAACPT1zcQB+AAz0pnURdAAFY2xvbmVzcQB+AAy89GkzdAAIdG9TdHJpbmdzcQB+AAzE0MARdAACIT1zcQB+AAzh8plBdAAIZ2V0Q2xhc3NzcQB+AAxjlw4rdAACbmVzcQB+AAw2C5/DdAACZXFzcQB+AAx8IIrjdAACIyNzcQB+AAzsHUPPdAAIZmluYWxpemVzcQB+AAz7j9YUdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAabGluYWxnLnBsb3QuQnJlZXplUGxvdExpbmV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBec3EAfgBZdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAddXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF10AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AbVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXXNxAH4AbHQABUFycmF5cQB+AHJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbHQABlN0cmluZ3NxAH4AcHNxAH4Ac3VxAH4AdgAAAANzcQB+AHh0AARqYXZhc3EAfgB4dAAEbGFuZ3EAfgB9c3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVxAH4AkQAAAAJzcQB+AGx0AAZPYmplY3RxAH4AlXNxAH4AbHQAA0FueXEAfgBydXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGbGluYWxnc3EAfgCmdAALbGluYWxnLnBsb3RzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV6JlWB0dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAYi9Vc2Vycy9zdGV2ZS9NYWNoaW5lLUxlYXJuaW5nLXdpdGgtU3BhcmstU2Vjb25kLUVkaXRpb24vQ2hhcHRlcjAyL2JyZWV6ZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUkTKLFBEOUMHjj8gkTgC5Is1VWqE=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw5DOY+gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwPzOE1nQABm5vdGlmeXNxAH4ADIeuPfR0AAR3YWl0c3EAfgAMGnY9R3QADSRhc0luc3RhbmNlT2ZzcQB+AAzTGb5GdAAGZXF1YWxzc3EAfgAMIQ7dBXQADGFzSW5zdGFuY2VPZnNxAH4ADJXWpXt0AAxzeW5jaHJvbml6ZWRzcQB+AAyJ3UXZdAANJGlzSW5zdGFuY2VPZnNxAH4ADLxeSoZ0AARtYWluc3EAfgAM6peAwXQACW5vdGlmeUFsbHNxAH4ADPi8bRt0AAxpc0luc3RhbmNlT2ZzcQB+AAzfl2+ndAACPT1zcQB+AAwbbLo4dAAFY2xvbmVzcQB+AAyLsynCdAAIdG9TdHJpbmdzcQB+AAxJMW6QdAACIT1zcQB+AAyhFtAsdAAPQnJlZXplU0dEVmVjdG9yc3EAfgAMB9Am/3QACGdldENsYXNzc3EAfgAMxyM5AXQAAm5lc3EAfgAM0g16nHQAAmVxc3EAfgAMWhLEpHQAAiMjc3EAfgAMIKzb7nQACGZpbmFsaXplc3EAfgAM1vuhwnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAGmxpbmFsZy5zZ2QuQnJlZXplU0dEVmVjdG9ydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABmxpbmFsZ3NxAH4ApnQACmxpbmFsZy5zZ2RzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV6JlWB0dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAYi9Vc2Vycy9zdGV2ZS9NYWNoaW5lLUxlYXJuaW5nLXdpdGgtU3BhcmstU2Vjb25kLUVkaXRpb24vQ2hhcHRlcjAyL2JyZWV6ZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUEeJQ/T5ZSYrXYu/mPjw+vGDI/AY=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwh8+KfgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwLKY2EXQABm5vdGlmeXNxAH4ADHy3dUl0AAR3YWl0c3EAfgAMbpT2HHQADSRhc0luc3RhbmNlT2ZzcQB+AAzcfAnodAAGZXF1YWxzc3EAfgAMqFznbnQADGFzSW5zdGFuY2VPZnNxAH4ADHM8g410AAxzeW5jaHJvbml6ZWRzcQB+AAzrPQCndAANJGlzSW5zdGFuY2VPZnNxAH4ADIjMUn90AARtYWluc3EAfgAMWlIPanQACW5vdGlmeUFsbHNxAH4ADOu8y090AAxpc0luc3RhbmNlT2ZzcQB+AAyCS9TQdAACPT1zcQB+AAw4wED7dAAFY2xvbmVzcQB+AAzHTbj4dAAIdG9TdHJpbmdzcQB+AAwgUOjfdAACIT1zcQB+AAzAbm2UdAAIZ2V0Q2xhc3NzcQB+AAxmQfltdAACbmVzcQB+AAzlpO93dAAGVmVjdG9yc3EAfgAM/wjPwHQAAmVxc3EAfgAMTy5SFXQAAiMjc3EAfgAM8oItRnQACGZpbmFsaXplc3EAfgAMIzkONHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAFGxpbmFsZy52ZWN0b3IuVmVjdG9ydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABmxpbmFsZ3NxAH4ApnQADWxpbmFsZy52ZWN0b3JzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV6JlWB0dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAYi9Vc2Vycy9zdGV2ZS9NYWNoaW5lLUxlYXJuaW5nLXdpdGgtU3BhcmstU2Vjb25kLUVkaXRpb24vQ2hhcHRlcjAyL2JyZWV6ZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU0k1EkV4tr2VP7L7KQ5NGPAhhvWI=
+external apis:
+0 items
+source infos:
+10 items
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> 
+AAAAAAAAAAA=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> 
+AAAAAAAAAAA=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> 
+AAAAAAAAAAA=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrix.scala -> 
+AAAAAAAAAAA=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/matrix/BreezeMatrixOperations.scala -> 
+AAAAAAAAAAA=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/operations/common.scala -> 
+AAAAAAAAAAA=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotGaussian.scala -> 
+AAAAAAAAAAA=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/plot/BreezePlotLine.scala -> 
+AAAAAAAAAAA=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> 
+AAAAAAAAAAA=
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXomVYHR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYi9Vc2Vycy9zdGV2ZS9NYWNoaW5lLUxlYXJuaW5nLXdpdGgtU3BhcmstU2Vjb25kLUVkaXRpb24vQ2hhcHRlcjAyL2JyZWV6ZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86

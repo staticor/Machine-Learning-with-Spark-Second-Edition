@@ -3,6 +3,7 @@
   <component name="ProjectCodeStyleSettingsManager">
     <option name="PER_PROJECT_SETTINGS">
       <value>
+<<<<<<< HEAD
         <option name="OTHER_INDENT_OPTIONS">
           <value>
             <option name="INDENT_SIZE" value="4" />
@@ -23,10 +24,24 @@
         <codeStyleSettings language="JAVA">
           <indentOptions>
             <option name="USE_TAB_CHARACTER" value="true" />
+=======
+        <codeStyleSettings language="Scala">
+          <indentOptions>
+            <option name="INDENT_SIZE" value="4" />
+            <option name="CONTINUATION_INDENT_SIZE" value="4" />
+            <option name="TAB_SIZE" value="4" />
+            <option name="USE_TAB_CHARACTER" value="true" />
+            <option name="SMART_TABS" value="true" />
+            <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
           </indentOptions>
         </codeStyleSettings>
       </value>
     </option>
+<<<<<<< HEAD
     <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default" />
+=======
+    <option name="USE_PER_PROJECT_SETTINGS" value="true" />
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
   </component>
 </project>

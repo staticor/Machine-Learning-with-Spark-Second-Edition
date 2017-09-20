@@ -7,6 +7,7 @@
 		revision="1.0"
 		conf="provided"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
+<<<<<<< HEAD
 		date="20170920210825"/>
 	<dependencies>
 		<module organisation="org.apache.spark" name="spark-core_2.11">
@@ -1378,5 +1379,9 @@
 				</artifacts>
 			</revision>
 		</module>
+=======
+		date="20170916120444"/>
+	<dependencies>
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
 	</dependencies>
 </ivy-report>

@@ -4,7 +4,11 @@
 		module="temp-module-750703454be73072ce64f1c215ff85550284ae5b"
 		revision="0.13.16"
 		status="integration"
+<<<<<<< HEAD
 		publication="20170916190931"
+=======
+		publication="20170916152701"
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
 	/>
 	<configurations>
 		<conf name="component" visibility="private" description=""/>

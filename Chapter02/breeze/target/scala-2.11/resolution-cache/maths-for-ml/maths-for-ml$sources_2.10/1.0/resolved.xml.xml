@@ -4,7 +4,11 @@
 		module="maths-for-ml$sources_2.10"
 		revision="1.0"
 		status="integration"
+<<<<<<< HEAD
 		publication="20170920210824"
+=======
+		publication="20170916120443"
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>

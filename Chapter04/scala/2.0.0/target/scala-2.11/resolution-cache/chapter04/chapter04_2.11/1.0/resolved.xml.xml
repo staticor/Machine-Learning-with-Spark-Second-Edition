@@ -4,7 +4,11 @@
 		module="chapter04_2.11"
 		revision="1.0"
 		status="integration"
+<<<<<<< HEAD
 		publication="20170917174157"
+=======
+		publication="20170918095703"
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
 	>
 		<description>
 		chapter04

@@ -9,11 +9,20 @@ import org.apache.spark.sql.{DataFrame, SparkSession}
   * Created by Rajdeep Dua on 2/2/16.
   */
 object Util {
+<<<<<<< HEAD
 
   val PATH = "/Users/steveyoung/ml-100k/"
   val SPARK_HOME ="/Users/steveyoung/spark-2.2.0-bin-hadoop2.7/"
   val spConfig: SparkConf = (new SparkConf).setMaster("local").setAppName("SparkApp")
   val spark: SparkSession = SparkSession
+=======
+  val PATH = "/Users/steve/ml-100k/"
+
+  val SPARK_HOME ="/Users/steve/spark-2.0.0-bin-hadoop2.7/"
+  val spConfig = (new SparkConf).setMaster("local").setAppName("SparkApp")
+  //val sc = new SparkContext(spConfig)
+  val spark = SparkSession
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
     .builder().master("local")
     .appName("Spark 2.0.0")
     //.config("spark.some.config.option", "some-value")
@@ -24,6 +33,11 @@ object Util {
   val PATH_MOVIES = PATH + "u.item"
   val PATH_USERS = PATH + "u.user"
 
+<<<<<<< HEAD
+=======
+  val PATH_MOVIES = PATH + "u.item"
+  val PATH_USERS = PATH + "u.user"
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
 
 
   def getMovieData() : RDD[String] = {
@@ -104,9 +118,15 @@ object Util {
     }
   }
 
+<<<<<<< HEAD
   def getUserData : RDD[String] = {
     var user_data = Util.spark.sparkContext.textFile(PATH + "u.user")
     user_data
+=======
+  def getUserData() : RDD[String] = {
+    var user_data = Util.spark.sparkContext.textFile(PATH + "u.user")
+    return user_data
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
   }
 
   def getUserFields() : RDD[Array[String]] = {

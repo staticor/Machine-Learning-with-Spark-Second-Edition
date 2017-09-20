@@ -17,7 +17,7 @@ object UserOccupationChart {
     val userDataFrame = Util.getUserFieldDataFrame()
     val occupation = userDataFrame.select("occupation")
     val occupation_groups = userDataFrame.groupBy("occupation").count()
-    //occupation_groups.show()
+    occupation_groups.show()
     val occupation_groups_sorted = occupation_groups.sort("count")
     occupation_groups_sorted.show()
     val occupation_groups_collection = occupation_groups_sorted.collect()
