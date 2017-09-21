@@ -4,7 +4,11 @@
 		module="breeze-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
+<<<<<<< HEAD
+		publication="20170920210607"
+=======
 		publication="20170916120435"
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>

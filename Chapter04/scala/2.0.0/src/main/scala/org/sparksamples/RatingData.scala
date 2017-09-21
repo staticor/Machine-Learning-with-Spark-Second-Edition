@@ -28,7 +28,7 @@ object RatingData {
 
     val rating_df = spark.read.format("com.databricks.spark.csv")
       .option("delimiter", "\t").schema(customSchema)
-      .load("../../data/ml-100k/u.data")
+      .load("/Users/steveyoung/ml-100k/u.data")
     rating_df.createOrReplaceTempView("df")
     val num_ratings = rating_df.count()
     val num_movies = Util.getMovieDataDF().count()
@@ -57,7 +57,7 @@ object RatingData {
     val occupation_df_collect = occupation_df.collect()
 
     var all_occupations_dict_1:Map[String, Int] = Map()
-    var idx = 0;
+    var idx = 0
     // for loop execution with a range
     for( idx <- 0 to (occupation_df_collect.length -1)){
       all_occupations_dict_1 += occupation_df_collect(idx)(0).toString() -> idx

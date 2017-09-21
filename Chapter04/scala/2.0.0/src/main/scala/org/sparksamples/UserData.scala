@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+//
+=======
 package org.sparksamples
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
 //import org.apache.spark.sql.SQLContext
 import org.apache.hadoop.yarn.util.RackResolver
 import org.apache.log4j.{Level, Logger}
@@ -27,7 +31,11 @@ object UserData {
     spark.sparkContext.setLogLevel("ERROR")
     val user_df = spark.read.format("com.databricks.spark.csv")
       .option("delimiter", "|").schema(customSchema)
+<<<<<<< HEAD
+      .load("/Users/steveyoung/ml-100k/u.user")
+=======
       .load("/Users/steve/ml-100k/u.user")
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
     val first = user_df.first()
     println("First Record : " + first)
 

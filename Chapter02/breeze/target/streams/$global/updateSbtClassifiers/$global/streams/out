@@ -1,7 +1,11 @@
 [0m[[0mdebug[0m] [0mOther repositories:[0m
 [0m[[0mdebug[0m] [0mDefault repositories:[0m
 [0m[[0mdebug[0m] [0mUsing inline dependencies specified in Scala.[0m
+<<<<<<< HEAD
 [0m[[0mdebug[0m] [0mno default cache defined: set to /Users/steve/.ivy2/cache[0m
+=======
+<<<<<<< HEAD
+>>>>>>> 259f0f29334670164a7f80cd7a5dade9c7a22ea7
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: maths-for-ml#maths-for-ml$sbt_2.10;1.0[0m
 [0m[[0mdebug[0m] [0m	confs: [default][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -384,6 +388,10 @@
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]}[0m
+<<<<<<< HEAD
+=======
+[0m[[0mdebug[0m] [0mno default cache defined: set to /Users/steveyoung/.ivy2/cache[0m
+>>>>>>> 259f0f29334670164a7f80cd7a5dade9c7a22ea7
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]}[0m
 [0m[[0minfo[0m] [0mResolving org.scala-sbt#logging;0.13.16 ...[0m
@@ -1795,9 +1803,15 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.16!apply-macro.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar[0m
+<<<<<<< HEAD
 [0m[[0mdebug[0m] [0m:: resolution report :: resolve 1214ms :: artifacts dl 27ms[0m
 [0m[[0mdebug[0m] [0m	report for maths-for-ml#maths-for-ml$sbt_2.10;1.0 default produced in /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/resolution-cache/reports/maths-for-ml-maths-for-ml$sbt_2.10-default.xml[0m
 [0m[[0mdebug[0m] [0m	resolve done (1214ms resolve - 27ms download)[0m
+=======
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 1471ms :: artifacts dl 56ms[0m
+[0m[[0mdebug[0m] [0m	report for maths-for-ml#maths-for-ml$sbt_2.10;1.0 default produced in /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/resolution-cache/reports/maths-for-ml-maths-for-ml$sbt_2.10-default.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (1471ms resolve - 56ms download)[0m
+>>>>>>> 259f0f29334670164a7f80cd7a5dade9c7a22ea7
 [0m[[0mdebug[0m] [0mUsing inline dependencies specified in Scala.[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: maths-for-ml#maths-for-ml$sources_2.10;1.0[0m
 [0m[[0mdebug[0m] [0m	confs: [default][0m
@@ -2497,6 +2511,14 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#tracking;0.13.16!tracking.jar(src)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.16!test-agent.jar(src)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#command;0.13.16!command.jar(src)[0m
+<<<<<<< HEAD
 [0m[[0mdebug[0m] [0m:: resolution report :: resolve 207ms :: artifacts dl 16ms[0m
 [0m[[0mdebug[0m] [0m	report for maths-for-ml#maths-for-ml$sources_2.10;1.0 default produced in /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/resolution-cache/reports/maths-for-ml-maths-for-ml$sources_2.10-default.xml[0m
 [0m[[0mdebug[0m] [0m	resolve done (207ms resolve - 16ms download)[0m
+=======
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 369ms :: artifacts dl 60ms[0m
+[0m[[0mdebug[0m] [0m	report for maths-for-ml#maths-for-ml$sources_2.10;1.0 default produced in /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/resolution-cache/reports/maths-for-ml-maths-for-ml$sources_2.10-default.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (369ms resolve - 60ms download)[0m
+=======
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
+>>>>>>> 259f0f29334670164a7f80cd7a5dade9c7a22ea7

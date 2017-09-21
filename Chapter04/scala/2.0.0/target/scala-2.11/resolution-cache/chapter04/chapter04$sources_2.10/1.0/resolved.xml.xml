@@ -4,7 +4,11 @@
 		module="chapter04$sources_2.10"
 		revision="1.0"
 		status="integration"
+<<<<<<< HEAD
+		publication="20170917184215"
+=======
 		publication="20170918100243"
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>

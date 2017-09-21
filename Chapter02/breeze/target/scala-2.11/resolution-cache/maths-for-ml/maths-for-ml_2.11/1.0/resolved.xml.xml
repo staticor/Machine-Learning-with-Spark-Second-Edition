@@ -4,7 +4,15 @@
 		module="maths-for-ml_2.11"
 		revision="1.0"
 		status="integration"
+<<<<<<< HEAD
 		publication="20170920142207"
+=======
+<<<<<<< HEAD
+		publication="20170917105844"
+=======
+		publication="20170916120443"
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
+>>>>>>> 259f0f29334670164a7f80cd7a5dade9c7a22ea7
 	>
 		<description>
 		maths-for-ml
@@ -37,7 +45,15 @@
 		<dependency org="org.scalanlp" name="breeze_2.11" rev="0.12" conf="compile->default(compile)"/>
 		<dependency org="org.scalanlp" name="breeze-natives_2.11" rev="0.12" conf="compile->default(compile)"/>
 		<dependency org="org.scalanlp" name="breeze-viz_2.11" rev="0.12" conf="compile->default(compile)"/>
+<<<<<<< HEAD
 		<dependency org="org.apache.spark" name="spark-core_2.11" rev="2.0.0" conf="compile->default(compile)"/>
 		<dependency org="org.apache.spark" name="spark-mllib_2.11" rev="2.0.0" conf="compile->default(compile)"/>
+=======
+<<<<<<< HEAD
+		<dependency org="org.apache.spark" name="spark-core_2.11" rev="2.1.1" conf="provided->default(compile)"/>
+		<dependency org="org.apache.spark" name="spark-mllib_2.11" rev="2.1.1" conf="compile->default(compile)"/>
+=======
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
+>>>>>>> 259f0f29334670164a7f80cd7a5dade9c7a22ea7
 	</dependencies>
 </ivy-module>

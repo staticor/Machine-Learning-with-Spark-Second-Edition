@@ -9,6 +9,7 @@ import scalax.chart.module.ChartFactories
 /**
   * Created by @rajdeepdua on 2/22/2016.
   * Modified for DataFrame on 9/4/2016
+  * Jy studied.
   */
 object UserOccupationChart {
 

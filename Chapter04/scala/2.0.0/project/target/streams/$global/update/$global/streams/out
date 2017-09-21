@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+[0m[[0minfo[0m] [0mUpdating {file:/Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/project/}root-2-0-0-build...[0m
+=======
 [0m[[0minfo[0m] [0mUpdating {file:/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/project/}root-2-0-0-build...[0m
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: default#root-2-0-0-build;0.1-SNAPSHOT[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -6232,6 +6236,23 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
+<<<<<<< HEAD
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 3129ms :: artifacts dl 56ms[0m
+[0m[[0mdebug[0m] [0m	report for default#root-2-0-0-build;0.1-SNAPSHOT compile produced in /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-root-2-0-0-build-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#root-2-0-0-build;0.1-SNAPSHOT runtime produced in /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-root-2-0-0-build-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#root-2-0-0-build;0.1-SNAPSHOT test produced in /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-root-2-0-0-build-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#root-2-0-0-build;0.1-SNAPSHOT provided produced in /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-root-2-0-0-build-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#root-2-0-0-build;0.1-SNAPSHOT optional produced in /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-root-2-0-0-build-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#root-2-0-0-build;0.1-SNAPSHOT compile-internal produced in /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-root-2-0-0-build-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#root-2-0-0-build;0.1-SNAPSHOT runtime-internal produced in /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-root-2-0-0-build-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#root-2-0-0-build;0.1-SNAPSHOT test-internal produced in /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-root-2-0-0-build-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#root-2-0-0-build;0.1-SNAPSHOT plugin produced in /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-root-2-0-0-build-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#root-2-0-0-build;0.1-SNAPSHOT sources produced in /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-root-2-0-0-build-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#root-2-0-0-build;0.1-SNAPSHOT docs produced in /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-root-2-0-0-build-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#root-2-0-0-build;0.1-SNAPSHOT pom produced in /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-root-2-0-0-build-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#root-2-0-0-build;0.1-SNAPSHOT scala-tool produced in /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-root-2-0-0-build-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (3129ms resolve - 56ms download)[0m
+=======
 [0m[[0mdebug[0m] [0m:: resolution report :: resolve 1053ms :: artifacts dl 19ms[0m
 [0m[[0mdebug[0m] [0m	report for default#root-2-0-0-build;0.1-SNAPSHOT compile produced in /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-root-2-0-0-build-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#root-2-0-0-build;0.1-SNAPSHOT runtime produced in /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-root-2-0-0-build-runtime.xml[0m
@@ -6247,4 +6268,5 @@
 [0m[[0mdebug[0m] [0m	report for default#root-2-0-0-build;0.1-SNAPSHOT pom produced in /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-root-2-0-0-build-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#root-2-0-0-build;0.1-SNAPSHOT scala-tool produced in /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter04/scala/2.0.0/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-root-2-0-0-build-scala-tool.xml[0m
 [0m[[0mdebug[0m] [0m	resolve done (1053ms resolve - 19ms download)[0m
+>>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
 [0m[[0minfo[0m] [0mDone updating.[0m
