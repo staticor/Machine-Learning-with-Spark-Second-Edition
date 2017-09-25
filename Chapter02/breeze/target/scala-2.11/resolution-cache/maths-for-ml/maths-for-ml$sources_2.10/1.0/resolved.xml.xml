@@ -5,10 +5,14 @@
 		revision="1.0"
 		status="integration"
 <<<<<<< HEAD
+		publication="20170920142225"
+=======
+<<<<<<< HEAD
 		publication="20170920210824"
 =======
 		publication="20170916120443"
 >>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
+>>>>>>> 259f0f29334670164a7f80cd7a5dade9c7a22ea7
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>

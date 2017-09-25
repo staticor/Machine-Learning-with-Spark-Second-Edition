@@ -10,4 +10,9 @@ all {file:/Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter02
 all {file:/Users/steve/Dropbox%20(个人)/mygit/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/}breeze/products {file:/Users/steve/Dropbox%20(个人)/mygit/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/}breeze/test:products
 ;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/nv/9ymnp8f13_d_3sqct0lv32pw0000gn/T/sbt-structure.xml
 all {file:/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/}breeze/products {file:/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/}breeze/test:products
+<<<<<<< HEAD
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/nv/9ymnp8f13_d_3sqct0lv32pw0000gn/T/sbt-structure.xml
+all {file:/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/}breeze/products {file:/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/}breeze/test:products
+=======
 >>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
+>>>>>>> 259f0f29334670164a7f80cd7a5dade9c7a22ea7

@@ -8,10 +8,14 @@
 		conf="default"
 		confs="default"
 <<<<<<< HEAD
+		date="20170920142206"/>
+=======
+<<<<<<< HEAD
 		date="20170920210823"/>
 =======
 		date="20170916120442"/>
 >>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
+>>>>>>> 259f0f29334670164a7f80cd7a5dade9c7a22ea7
 	<dependencies>
 		<module organisation="org.jetbrains" name="sbt-idea-shell">
 			<revision name="1.2+7-625c26bc" status="release" pubdate="20170717235348" resolver="sbt-chain" artresolver="sbt-chain" extra-scalaVersion="2.10" extra-sbtVersion="0.13" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="52">

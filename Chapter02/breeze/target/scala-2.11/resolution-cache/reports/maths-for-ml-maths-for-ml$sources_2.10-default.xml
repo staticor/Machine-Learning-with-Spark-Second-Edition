@@ -8,6 +8,9 @@
 		conf="default"
 		confs="default"
 <<<<<<< HEAD
+		date="20170920142225"/>
+=======
+<<<<<<< HEAD
 		date="20170920210824"/>
 	<dependencies>
 		<module organisation="org.scala-sbt" name="sbt">
@@ -18,6 +21,7 @@
 					<artifact name="sbt" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="3589" time="0" location="/Users/steveyoung/.ivy2/cache/org.scala-sbt/sbt/srcs/sbt-0.13.16-sources.jar">
 =======
 		date="20170916120443"/>
+>>>>>>> 259f0f29334670164a7f80cd7a5dade9c7a22ea7
 	<dependencies>
 		<module organisation="org.scala-sbt" name="sbt">
 			<revision name="0.13.16" status="release" pubdate="20170726165851" resolver="sbt-chain" artresolver="sbt-chain" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="37">

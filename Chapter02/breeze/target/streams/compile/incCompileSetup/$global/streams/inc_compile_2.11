@@ -24,6 +24,12 @@ name hashing:
 0 -> true
 products:
 <<<<<<< HEAD
+29 items
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/imageexamples/LFWDemo$$anonfun$1.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/imageexamples/LFWDemo$.class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/imageexamples/LFWDemo.class
+=======
+<<<<<<< HEAD
 42 items
 /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/Foobar.scala -> /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/Foobar$$anonfun$1.class
 /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/Foobar.scala -> /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/Foobar$.class
@@ -116,6 +122,7 @@ binary dependencies:
 /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> /Users/steveyoung/.ivy2/cache/org.scalanlp/breeze_2.11/jars/breeze_2.11-0.12.jar
 =======
 26 items
+>>>>>>> 259f0f29334670164a7f80cd7a5dade9c7a22ea7
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/ComplexNumber$.class
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/ComplexNumber.class
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/GF2$class.class
@@ -143,7 +150,10 @@ binary dependencies:
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/vector/Vector$.class
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/vector/Vector.class
 binary dependencies:
-30 items
+33 items
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> /Users/steve/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> /Users/steve/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> /Users/steve/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> /Users/steve/.ivy2/cache/org.scalanlp/breeze_2.11/jars/breeze_2.11-0.12.jar
@@ -197,6 +207,12 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
+<<<<<<< HEAD
+29 items
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> imageexamples.LFWDemo
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> imageexamples.LFWDemo$
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> imageexamples.LFWDemo$$anonfun$1
+=======
 <<<<<<< HEAD
 42 items
 /Users/steveyoung/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/Foobar.scala -> Foobar
@@ -1413,6 +1429,7 @@ compilations:
 22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXp+Hscd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZy9Vc2Vycy9zdGV2ZXlvdW5nL01hY2hpbmUtTGVhcm5pbmctd2l0aC1TcGFyay1TZWNvbmQtRWRpdGlvbi9DaGFwdGVyMDIvYnJlZXplL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
 =======
 26 items
+>>>>>>> 259f0f29334670164a7f80cd7a5dade9c7a22ea7
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> linalg.fields.ComplexNumber
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> linalg.fields.ComplexNumber$
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> linalg.fields.GF2
@@ -1440,7 +1457,83 @@ compilations:
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> linalg.vector.Vector$
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> linalg.vector.Vector$$anonfun$1
 used names:
-630 items
+706 items
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> <init>
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> Any
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> AnyRef
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> Array
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> Boolean
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> BufferedImage
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> CharSequence
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> Class
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> ClassTag
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> File
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> Function1
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> Graphics
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> Image
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> ImageIO
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> ImageObserver
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> Int
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> LFWDemo
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> Long
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> MatchError
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> Nothing
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> Object
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> Predef
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> RDD
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> RenderedImage
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> SparkConf
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> SparkContext
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> String
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> T
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> Tuple2
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> U
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> Unit
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> _$7
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> _1
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> aeImage
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> aePath
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> apache
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> apply
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> awt
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> bwImage
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> count
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> dispose
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> drawImage
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> fileName
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> files
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> first
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> g
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> getGraphics
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> gradeImage
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> height
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> image
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> imageexamples
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> imageio
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> io
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> java
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> javax
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> loadImageFormat
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> map
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> materializeClassTag
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> ne
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> org
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> package
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> path
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> println
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> processImage
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> rdd
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> read
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> replace
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> sc
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> scala
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> setAppName
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> setMaster
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> spConfig
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> spark
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> wholeTextFiles
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> width
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> write
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> *
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> +
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> -
@@ -2072,7 +2165,10 @@ used names:
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> vector
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> x
 product stamps:
-26 items
+29 items
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/imageexamples/LFWDemo$$anonfun$1.class -> lastModified(1505958693000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/imageexamples/LFWDemo$.class -> lastModified(1505958693000)
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/imageexamples/LFWDemo.class -> lastModified(1505958692000)
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/ComplexNumber$.class -> lastModified(1505546841000)
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/ComplexNumber.class -> lastModified(1505546841000)
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/fields/GF2$class.class -> lastModified(1505546841000)
@@ -2100,7 +2196,8 @@ product stamps:
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/vector/Vector$.class -> lastModified(1505546841000)
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/target/scala-2.11/classes/linalg/vector/Vector.class -> lastModified(1505546841000)
 source stamps:
-10 items
+11 items
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> hash(0fe41305c875d8329b222e5d26cf8cc601771605)
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> hash(9d4bbea347830e3093cdcc3e50722548dcadc90f)
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> hash(62eaef7b14089f87513b2d42797fa5e37deac72d)
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GaloisField.scala -> hash(6da133268fa259c3be8ee26681933fd74776fe85)
@@ -2112,19 +2209,23 @@ source stamps:
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/sgd/BreezeSGDVector.scala -> hash(11e250fd3e59498ad762efe63e3c3ebc60c8fc06)
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> hash(d24d44915e2daf654fecbeca4393463c0861bd62)
 binary stamps:
-4 items
+5 items
 /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1466589303000)
+/Users/steve/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar -> lastModified(1468969501000)
 /Users/steve/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
 /Users/steve/.ivy2/cache/org.scalanlp/breeze-viz_2.11/jars/breeze-viz_2.11-0.12.jar -> lastModified(1452973949000)
 /Users/steve/.ivy2/cache/org.scalanlp/breeze_2.11/jars/breeze_2.11-0.12.jar -> lastModified(1452974058000)
 class names:
-4 items
+5 items
 /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
-/Users/steve/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Tuple2$
+/Users/steve/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar -> org.apache.spark.SparkContext$
+/Users/steve/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.reflect.ClassTag$
 /Users/steve/.ivy2/cache/org.scalanlp/breeze-viz_2.11/jars/breeze-viz_2.11-0.12.jar -> breeze.plot.Figure$
 /Users/steve/.ivy2/cache/org.scalanlp/breeze_2.11/jars/breeze_2.11-0.12.jar -> breeze.linalg.operators.OpMulInner$
 internal apis:
-10 items
+11 items
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwg1T8GgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwsoI1uHQABm5vdGlmeXNxAH4ADHSbgFp0AAR3YWl0c3EAfgAMkRSbo3QADSRhc0luc3RhbmNlT2ZzcQB+AAwd6GO3dAAPbG9hZEltYWdlRm9ybWF0c3EAfgAMf+BcRXQABmVxdWFsc3NxAH4ADG1P5Yp0AAxhc0luc3RhbmNlT2ZzcQB+AAyj5S22dAAMc3luY2hyb25pemVkc3EAfgAMKKtI2nQADSRpc0luc3RhbmNlT2ZzcQB+AAwt3k4ZdAAEbWFpbnNxAH4ADGgAeL50AAlub3RpZnlBbGxzcQB+AAywRI0cdAAMaXNJbnN0YW5jZU9mc3EAfgAMBlj80HQAAj09c3EAfgAMMD9FJnQABWNsb25lc3EAfgAM219RKnQACHRvU3RyaW5nc3EAfgAMd3RSHXQAB0xGV0RlbW9zcQB+AAzeEGl0dAACIT1zcQB+AAzC/EjIdAAIZ2V0Q2xhc3NzcQB+AAzBRb/YdAAMcHJvY2Vzc0ltYWdlc3EAfgAMEfyNTXQAAm5lc3EAfgAMSyWgl3QAAmVxc3EAfgAMQLiiXXQAAiMjc3EAfgAMLm1MTnQACGZpbmFsaXplc3EAfgAMbKlj73QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ARXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAFWltYWdlZXhhbXBsZXMuTEZXRGVtb3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGJzcQB+AF11cQB+AEAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEZxAH4AT3VxAH4AUAAAAABzcQB+AFIAcQB+AB91cQB+AFUAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH11cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBqeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBYdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBxWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBhc3EAfgBwdAAFQXJyYXlxAH4AdnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBwdAAGU3RyaW5nc3EAfgB0c3EAfgB3dXEAfgB6AAAAA3NxAH4AfHQABGphdmFzcQB+AHx0AARsYW5ncQB+AIFzcQB+AF11cQB+AEAAAAAAc3EAfgBddXEAfgCVAAAAAnNxAH4AcHQABk9iamVjdHEAfgCZc3EAfgBwdAADQW55cQB+AHZ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AA1pbWFnZWV4YW1wbGVzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFeoiHxg3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGIvVXNlcnMvc3RldmUvTWFjaGluZS1MZWFybmluZy13aXRoLVNwYXJrLVNlY29uZC1FZGl0aW9uL0NoYXB0ZXIwMi9icmVlemUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFA/kEwXIddgymyIuXSbPjMYBdxYF
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> 
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwLBvYOAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwHSSVtXQABm5vdGlmeXNxAH4ADPei6w10AAR3YWl0c3EAfgAMvuY5MnQADSRhc0luc3RhbmNlT2ZzcQB+AAwWQKcrdAAGZXF1YWxzc3EAfgAMHBjaeXQADGFzSW5zdGFuY2VPZnNxAH4ADF6ESOd0AAxzeW5jaHJvbml6ZWRzcQB+AAz/oGG/dAANJGlzSW5zdGFuY2VPZnNxAH4ADKvMzrl0AARtYWluc3EAfgAMJWk2EXQACW5vdGlmeUFsbHNxAH4ADOR/TXp0AAxpc0luc3RhbmNlT2ZzcQB+AAzT2/BadAACPT1zcQB+AAzUnVBcdAAOY29tcGxleE51bWJlcnNzcQB+AAwQ/nWudAAFY2xvbmVzcQB+AAzIe7KzdAANQ29tcGxleE51bWJlcnNxAH4ADJBbeUt0AAh0b1N0cmluZ3NxAH4ADN1F2TZ0AAIhPXNxAH4ADKDud+Z0AAhnZXRDbGFzc3NxAH4ADKK964R0AAJuZXNxAH4ADBTX+Wx0AAJlcXNxAH4ADKBaKOF0AAIjI3NxAH4ADFWQFKF0AAhmaW5hbGl6ZXNxAH4ADGCYPu90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABtsaW5hbGcuZmllbGRzLkNvbXBsZXhOdW1iZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFtzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBgc3EAfgBbdXEAfgA+AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBEcQB+AE11cQB+AE4AAAAAc3EAfgBQAHEAfgAddXEAfgBTAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF90AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB7dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AaHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVnQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ab1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AX3NxAH4AbnQABUFycmF5cQB+AHR1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbnQABlN0cmluZ3NxAH4AcnNxAH4AdXVxAH4AeAAAAANzcQB+AHp0AARqYXZhc3EAfgB6dAAEbGFuZ3EAfgB/c3EAfgBbdXEAfgA+AAAAAHNxAH4AW3VxAH4AkwAAAAJzcQB+AG50AAZPYmplY3RxAH4Al3NxAH4AbnQAA0FueXEAfgB0dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGbGluYWxnc3EAfgCodAANbGluYWxnLmZpZWxkc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXomVYHR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABiL1VzZXJzL3N0ZXZlL01hY2hpbmUtTGVhcm5pbmctd2l0aC1TcGFyay1TZWNvbmQtRWRpdGlvbi9DaGFwdGVyMDIvYnJlZXplL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSdS76jR4MOMJPNzD5QciVI3K3JDw==
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> 
@@ -2148,7 +2249,9 @@ rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBo
 external apis:
 0 items
 source infos:
-10 items
+11 items
+/Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/imageexamples/LFWDemo.scala -> 
+AAAAAAAAAAA=
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/ComplexNumber.scala -> 
 AAAAAAAAAAA=
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/fields/GF2.scala -> 
@@ -2170,6 +2273,14 @@ AAAAAAAAAAA=
 /Users/steve/Machine-Learning-with-Spark-Second-Edition/Chapter02/breeze/src/main/scala/linalg/vector/Vector.scala -> 
 AAAAAAAAAAA=
 compilations:
-1 items
+6 items
 0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXomVYHR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYi9Vc2Vycy9zdGV2ZS9NYWNoaW5lLUxlYXJuaW5nLXdpdGgtU3BhcmstU2Vjb25kLUVkaXRpb24vQ2hhcHRlcjAyL2JyZWV6ZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+<<<<<<< HEAD
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXp4dLwZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYi9Vc2Vycy9zdGV2ZS9NYWNoaW5lLUxlYXJuaW5nLXdpdGgtU3BhcmstU2Vjb25kLUVkaXRpb24vQ2hhcHRlcjAyL2JyZWV6ZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXp4mQpV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYi9Vc2Vycy9zdGV2ZS9NYWNoaW5lLUxlYXJuaW5nLXdpdGgtU3BhcmstU2Vjb25kLUVkaXRpb24vQ2hhcHRlcjAyL2JyZWV6ZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXp7T/w91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYi9Vc2Vycy9zdGV2ZS9NYWNoaW5lLUxlYXJuaW5nLXdpdGgtU3BhcmstU2Vjb25kLUVkaXRpb24vQ2hhcHRlcjAyL2JyZWV6ZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXp7s0UJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYi9Vc2Vycy9zdGV2ZS9NYWNoaW5lLUxlYXJuaW5nLXdpdGgtU3BhcmstU2Vjb25kLUVkaXRpb24vQ2hhcHRlcjAyL2JyZWV6ZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXqIh8YN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYi9Vc2Vycy9zdGV2ZS9NYWNoaW5lLUxlYXJuaW5nLXdpdGgtU3BhcmstU2Vjb25kLUVkaXRpb24vQ2hhcHRlcjAyL2JyZWV6ZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+=======
 >>>>>>> 40cc251d08389a87f1400e35a96a482d20b1ad86
+>>>>>>> 259f0f29334670164a7f80cd7a5dade9c7a22ea7
