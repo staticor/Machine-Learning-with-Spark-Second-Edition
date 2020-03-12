@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40e33f65-47e4-4883-aa84-3d673d65622e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YLkfZFnTOoBlkbKveVAywS8mbf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ScalaApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ScalaApp" />
+      <module name="Machine-Learning-with-Spark-Second-Edition" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ScalaApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40e33f65-47e4-4883-aa84-3d673d65622e" name="Default Changelist" comment="" />
+      <created>1582729365728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582729365728</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="822" y="575" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1582729900840">
+      <screen x="0" y="23" width="2560" height="1340" />
+    </state>
+    <state x="822" y="575" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.2560.1340@0.23.2560.1340" timestamp="1582729900840" />
+    <state x="950" y="566" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582729907226">
+      <screen x="0" y="23" width="2560" height="1340" />
+    </state>
+    <state x="950" y="566" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.2560.1340@0.23.2560.1340" timestamp="1582729907226" />
+    <state width="2132" height="331" key="GridCell.Tab.0.bottom" timestamp="1582730826787">
+      <screen x="0" y="23" width="2560" height="1338" />
+    </state>
+    <state width="2132" height="331" key="GridCell.Tab.0.bottom/0.23.2560.1338@0.23.2560.1338" timestamp="1582730826787" />
+    <state width="2132" height="331" key="GridCell.Tab.0.center" timestamp="1582730826786">
+      <screen x="0" y="23" width="2560" height="1338" />
+    </state>
+    <state width="2132" height="331" key="GridCell.Tab.0.center/0.23.2560.1338@0.23.2560.1338" timestamp="1582730826786" />
+    <state width="2132" height="331" key="GridCell.Tab.0.left" timestamp="1582730826786">
+      <screen x="0" y="23" width="2560" height="1338" />
+    </state>
+    <state width="2132" height="331" key="GridCell.Tab.0.left/0.23.2560.1338@0.23.2560.1338" timestamp="1582730826786" />
+    <state width="2132" height="331" key="GridCell.Tab.0.right" timestamp="1582730826786">
+      <screen x="0" y="23" width="2560" height="1338" />
+    </state>
+    <state width="2132" height="331" key="GridCell.Tab.0.right/0.23.2560.1338@0.23.2560.1338" timestamp="1582730826786" />
+    <state x="307" y="312" key="new project wizard" timestamp="1582729624433">
+      <screen x="0" y="23" width="2560" height="1340" />
+    </state>
+    <state x="307" y="312" key="new project wizard/0.23.2560.1340@0.23.2560.1340" timestamp="1582729624433" />
+  </component>
+</project>
